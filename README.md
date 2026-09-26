@@ -8,7 +8,7 @@ An advanced Excel-based Business Intelligence dashboard for analyzing patient ap
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Patient no-shows are one of the most persistent inefficiencies in healthcare systems — wasting clinical capacity, delaying care for other patients, and inflating operational costs. This project analyzes a real-world dataset of **106,987 medical appointments** to answer a core business question:
 
@@ -18,7 +18,7 @@ The result is a fully interactive, single-workbook Excel dashboard that combines
 
 ---
 
-## 🗂️ Dataset Description
+##  Dataset Description
 
 | Attribute | Description |
 |---|---|
@@ -39,7 +39,7 @@ The result is a fully interactive, single-workbook Excel dashboard that combines
 
 ---
 
-## 🛠️ Tools & Methodology
+##  Tools & Methodology
 
 | Category | Tools / Techniques |
 |---|---|
@@ -57,7 +57,7 @@ The result is a fully interactive, single-workbook Excel dashboard that combines
 
 ---
 
-## 📊 Key Insights & Visualizations
+##  Key Insights & Visualizations
 
 ### 1. Appointments Timeline
 A line chart tracking daily appointment volume, revealing scheduling patterns, peak booking periods, and volume fluctuations over the observed date range.
@@ -83,7 +83,7 @@ A centralized bank of slicers — **Scholarship status**, **Alcoholism history**
 
 ---
 
-## 🏗️ Dashboard Architecture
+##  Dashboard Architecture
 
 ```
 Healthcare-NoShow-Analytics/
@@ -106,7 +106,7 @@ All visuals are pivot-chart-driven and connected to a single Power Pivot data mo
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Download** the `.xlsx` file from this repository.
 2. **Open** it in Microsoft Excel (2016 or later recommended for full Power Pivot / slicer support).
@@ -118,7 +118,7 @@ All visuals are pivot-chart-driven and connected to a single Power Pivot data mo
 
 ---
 
-## 💡 Key Business Takeaways
+## Key Business Takeaways
 
 - Nearly **4 in 5 appointments** in this dataset ended in a no-show, indicating a systemic attendance issue rather than isolated cases.
 - No-show rates vary meaningfully **by neighbourhood**, suggesting geography-targeted reminder or transportation-assistance programs could be more effective than blanket interventions.
@@ -127,10 +127,4 @@ All visuals are pivot-chart-driven and connected to a single Power Pivot data mo
 
 ---
 
-## 📬 Contact
 
-**Author:** Hana
-**Focus:** Machine Learning · Data Analysis · Computer Vision
-**Portfolio:** Building toward internship / analyst-level opportunities in Egypt's tech sector
-
-Feel free to open an issue or reach out with feedback or suggestions for extending this analysis.
